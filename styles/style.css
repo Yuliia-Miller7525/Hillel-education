@@ -9,3 +9,72 @@ a:hover {
 img {
   max-width: 100%;
 }
+
+/* ---------------------------- Login and Register page START ----------------------------*/
+header a {
+  color: #46a358;
+}
+.home-link {
+  width: 18px;
+}
+header {
+  max-width: 157px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 52px;
+  gap: 12px;
+  font-size: 20px;
+  font-weight: 500;
+}
+main {
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+main p {
+  font-size: 13px;
+  font-weight: 400;
+  color: #3d3d3d;
+  width: 100%;
+}
+form,
+input,
+button {
+  width: 100%;
+}
+input {
+  margin: 16 px auto;
+  height: 40px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #a5a5a5;
+  background-color: none;
+  border: 1px solid;
+}
+.primary-btn {
+  background-color: #46a358;
+  color: #ffffff;
+  border: none;
+  height: 45px;
+  font-size: 16px;
+  font-weight: 700;
+  border: none;
+  text-align: center;
+}
+button {
+  text-align: center;
+  height: 40px;
+  border-radius: 4px;
+  font-size: 13px;
+  font-weight: 500;
+  color: #727272;
+  background-color: none;
+  border: 1px solid;
+}
+.login-footer,
+.register-footer {
+  height: 10px;
+  background-color: #46a358;
+}
+/* ---------------------------- Login and Register page END ----------------------------- */
